@@ -4,8 +4,6 @@
 
 THIS PRACTICE PACK IS DESIGNED TO HELP YOU APPLY CORE CASE INTERVIEW SKILLS IN NEW CONTEXTS, BUILDING CONFIDENCE AND FLEXIBILITY
 
----
-
 ## How to Use This Practice Pack
 
 **This pack is designed to help candidates progressively build confidence in:**
@@ -19,8 +17,6 @@ THIS PRACTICE PACK IS DESIGNED TO HELP YOU APPLY CORE CASE INTERVIEW SKILLS IN N
 - Intermediate
 - Advanced
 
----
-
 ## Important Note For Self-Practice
 
 This is designed as a **SELF-PRACTICE casebook**.
@@ -32,8 +28,6 @@ Therefore:
 - Candidates should attempt the math themselves before reviewing calculations
 
 The goal is to simulate a real MBB interview as closely as possible while still remaining suitable for independent practice.
-
----
 
 ## Best Practices
 
@@ -50,8 +44,6 @@ Strong candidates sound like structured business problem solvers — not calcula
 # SESSION: Pricing Strategy
 
 THIS PRACTICE PACK CONTAINS PRICING STRATEGY CASES DESIGNED TO HELP CANDIDATES MASTER THE FRAMEWORKS, ANALYTICAL THINKING, QUANTITATIVE SKILLS, AND RECOMMENDATION TECHNIQUES REQUIRED IN CONSULTING INTERVIEWS. EACH CASE IS FULLY SELF-CONTAINED AND ACCOMPANIED BY DETAILED OFFER-LEVEL ANSWER GUIDE.
-
----
 
 ## Five Steps to Tackle Pricing Strategy Cases
 
@@ -75,10 +67,6 @@ They have hired your consulting team to advise them.
 
 Your task is to recommend an appropriate launch price.
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
 ### Data Provided To Candidate
 
 **Client Objective**
@@ -92,12 +80,6 @@ Your task is to recommend an appropriate launch price.
 - Google Rating: 4.8
 - Brand positioning: Premium independent café
 - Capacity: The café has enough capacity to serve additional drinks during most of the day.
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
-### Data Provided To Candidate
 
 **Product**
 
@@ -126,12 +108,6 @@ Recent customer survey
 | 180 THB | 82% |
 | 200 THB | 58% |
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
-### Data Provided To Candidate
-
 **Competition**
 
 | Café | Price |
@@ -152,21 +128,11 @@ Recent customer survey
 | Utilities | 5 |
 | *Total variable cost* | *85* |
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
 ### Your Tasks
 
 **Question 1**
 What is the client's primary objective?
 Why is this important?
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
-### Your Tasks
 
 **Question 2**
 Complete the table below.
@@ -178,12 +144,6 @@ Complete the table below.
 | Customer | | |
 | Competition | | |
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
-### Your Tasks
-
 **Question 3**
 Using the Pricing Triangle, identify
 - Cost Floor
@@ -194,35 +154,19 @@ Using the Pricing Triangle, identify
 Recommend an appropriate launch price.
 Support your recommendation using evidence from the case.
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
-### Your Tasks
-
 **Question 5**
 If the owner insisted on pricing the drink at 220 THB, what risks would you highlight?
 
 **Question 6**
 What would you recommend the client monitor during the first month after launch?
 
----
-
-# Guided Answers
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
+### Guided Answers
 
 **The client's objective is:** Maximise long-term profitability while maintaining premium positioning.
 
 **This immediately tells us:** We should not recommend aggressive penetration pricing.
 
 **Instead:** We should identify the highest sustainable premium price.
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
 
 **Question 2**
 
@@ -232,10 +176,6 @@ What would you recommend the client monitor during the first month after launch?
 | Product | Highly differentiated | Creates pricing power |
 | Customer | Strong demand up to 180 THB | Avoid pricing above willingness to pay |
 | Competition | 170–185 THB | Remain within premium range |
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
 
 **Question 3**
 
@@ -251,10 +191,6 @@ What would you recommend the client monitor during the first month after launch?
 
 *Therefore Likely pricing range 170–185 THB*
 
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
-
 **Recommendation**
 
 I recommend launching the drink at 179 THB.
@@ -266,10 +202,6 @@ This recommendation aligns with the client's objective of maximising long-term p
 3. The proposed price sits comfortably alongside Starbucks and other premium competitors without attempting to undercut them, while generating an attractive contribution margin of approximately 94 THB per cup.
 
 Hence, I recommend launching the drink at 179 THB.
-
----
-
-## Case 1 — Premium Coffee Shop Launch  [Easy]
 
 However, there are two key risks:
 - Actual willingness to pay may be lower than expected, resulting in lower sales volumes if customer behaviour differs from the research findings.
@@ -299,10 +231,6 @@ The company plans to enter the rapidly growing sports drink market by launching 
 
 Senior management has hired your consulting team to recommend an appropriate launch price.
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
 ### Data Provided To Candidate
 
 **Client Objective**
@@ -325,12 +253,6 @@ Hydra+ currently has
 Current market share in sports drinks 0%
 Brand awareness: High
 Experience within sports drinks: Low
-
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
-### Data Provided To Candidate
 
 **Product**
 
@@ -360,12 +282,6 @@ Target customers include
 | 35 THB | 72% |
 | 40 THB | 48% |
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
-### Data Provided To Candidate
-
 **Competition**
 
 Market leader: Sponsor
@@ -388,12 +304,6 @@ Current market share 46%
 | Distribution | 1 |
 | *Total variable cost* | *14* |
 
----
-
-## Case 2 – Launching a New Sports Drink
-
-### Data Provided To Candidate
-
 **Financial Analysis**
 
 The finance team estimates the following annual demand at different price points.
@@ -405,21 +315,11 @@ The finance team estimates the following annual demand at different price points
 | 30 THB | 27 million |
 | 35 THB | 18 million |
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
 ### Your Tasks
 
 **Question 1**
 What is the client's primary objective?
 Why is this important?
-
----
-
-## Case 2 – Launching a New Sports Drink
-
-### Your Tasks
 
 **Question 2**
 Complete the table below.
@@ -430,12 +330,6 @@ Complete the table below.
 | Product | | |
 | Customer | | |
 | Competition | | |
-
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
-### Your Tasks
 
 **Question 3**
 Using the Pricing Triangle, identify
@@ -454,12 +348,6 @@ Which option maximises profit?
 | 30 THB | |
 | 35 THB | |
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
-### Your Tasks
-
 **Question 5**
 Would you automatically choose the price with the highest contribution profit?
 Why or why not?
@@ -468,25 +356,13 @@ Why or why not?
 Recommend a launch price.
 Support your recommendation using evidence.
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
-### Your Tasks
-
 **Question 7**
 If Sponsor immediately reduces its price to 18 THB, how would you respond?
 
 **Question 8**
 What KPIs would you monitor during the first six months?
 
----
-
-# Guided Answers (Case 2)
-
----
-
-## Case 2 – Launching a New Sports Drink
+### Guided Answers
 
 **Although all information is provided, an offer-level candidate would naturally ask**
 
@@ -515,10 +391,6 @@ Company
 - Marketing budget?
 - Manufacturing constraints
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
 **Question 2**
 
 | Area | Insight | Pricing Implication |
@@ -527,10 +399,6 @@ Company
 | Product | Differentiated and preferred in taste tests | Supports slight premium over value brands |
 | Customer | Highly price sensitive | Avoid excessive pricing |
 | Competition | Strong incumbent and promotional market | Need competitive pricing |
-
----
-
-## Case 2 – Launching a New Sports Drink
 
 **Question 3**
 
@@ -544,10 +412,6 @@ Demand drops sharply above 35 THB.
 
 **Likely pricing range 25–30 THB**
 
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
-
 **Question 4**
 **Highest contribution 30 THB**
 
@@ -560,20 +424,12 @@ Demand drops sharply above 35 THB.
 
 (Row for 30 is highlighted in blue in the original.)
 
----
-
-## Case 2 – Launching a New Sports Drink
-
 **Question 5**
 
 No. Contribution is only one consideration.
 The client's objective is market share, not simply maximising short-term contribution.
 Charging 30 THB delivers the highest contribution, but 25 THB may accelerate customer acquisition and improve the likelihood of becoming a top-three brand.
 A consultant should discuss this trade-off rather than blindly selecting the mathematically optimal option.
-
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
 
 **Question 6**
 
@@ -585,10 +441,6 @@ Although pricing at 30 THB generates the highest annual contribution under the c
 A 25 THB price positions Hydra Active above low-cost alternatives like Sponsor while remaining meaningfully below premium competitors such as Gatorade and Pocari Sweat. It also maintains strong purchase intent (90%) and generates healthy contribution margins.
 
 This pricing strikes an appropriate balance between customer adoption, competitive positioning and long-term profitability.
-
----
-
-## Case 2 – Launching a New Sports Drink
 
 **Question 7**
 
@@ -602,10 +454,6 @@ Instead I would first investigate:
 - Would targeted promotions be more effective than a permanent price reduction?
 
 Only if evidence suggests price is the primary driver of customer switching would I recommend revisiting our pricing.
-
----
-
-## Case 2 – Launching a New Sports Drink  [Easy]
 
 **Question 8**
 
@@ -640,10 +488,6 @@ The platform helps businesses automate project planning, monitor deadlines and i
 TaskFlow has been successful in its domestic market and is preparing for a nationwide commercial launch.
 Management has asked your consulting team to recommend a pricing strategy.
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
 ### Data Provided To Candidate
 
 **Client Objective**
@@ -661,12 +505,6 @@ Annual churn 6%
 Brand awareness Moderate
 Funding Recently completed Series B funding
 Management is willing to sacrifice some short-term profits to accelerate customer acquisition.
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Data Provided To Candidate
 
 **Product**
 
@@ -698,12 +536,6 @@ Large enterprises care most about analytics, security and customer support.
 | SMEs | 50% | $15–20/month |
 | Large Enterprises | 20% | $28–40/month |
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Data Provided To Candidate
-
 **Competition**
 
 Enterprise contracts are typically negotiated separately.
@@ -726,12 +558,6 @@ Fixed development costs are already incurred and should not influence pricing.
 | Payment processing | 1 |
 | *Total Variable Cost* | *4* |
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Data Provided To Candidate
-
 **The product team is considering three pricing models.**
 
 | Option | Price |
@@ -740,21 +566,11 @@ Fixed development costs are already incurred and should not influence pricing.
 | B | $18/month |
 | C | Three pricing tiers: Basic $9; Professional $16; Enterprise Custom pricing |
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
 ### Your Tasks
 
 **Question 1**
 What is the client's primary objective?
 What implications does this have for pricing?
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Your Tasks
 
 **Question 2**
 Complete the table below.
@@ -765,12 +581,6 @@ Complete the table below.
 | Product | | |
 | Customer | | |
 | Competition | | |
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Your Tasks
 
 **Question 3**
 Using the Pricing Triangle, identify
@@ -786,12 +596,6 @@ Which pricing model would you recommend?
 
 Explain your reasoning.
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
-### Your Tasks
-
 **Question 5**
 How does customer segmentation influence your recommendation?
 
@@ -804,13 +608,7 @@ Recommend a pricing strategy.
 **Question 8**
 Identify risks and next steps
 
----
-
-# Guided Answers (Case 3)
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
+### Guided Answers
 
 **Although all information is provided, an offer-level candidate would naturally ask**
 
@@ -836,20 +634,12 @@ Company
 - Customer acquisition cost?
 - Capacity constraints?
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
 **Question 1**
 
 **Objective: Maximise recurring revenue while growing adoption.**
 **This suggests**
 - **Avoid overly expensive pricing.**
 - **Recurring customers create long-term value.**
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
 
 **Question 2**
 
@@ -859,10 +649,6 @@ Company
 | Product | Differentiated AI features | Supports premium pricing |
 | Customers | Different willingness to pay | One price may leave money on the table |
 | Competition | Most competitors charge $10–16 | Need competitive positioning |
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
 
 **Question 3**
 
@@ -876,10 +662,6 @@ Company
 - Enterprise $28–40
 
 Customer value differs substantially.
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
 
 **Question 4**
 
@@ -895,10 +677,6 @@ Customer value differs substantially.
 
 **Tiered pricing captures more value**
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
 **Question 5**
 
 Customer segmentation is the key insight.
@@ -911,10 +689,6 @@ Enterprise Custom pricing
 
 This allows each customer to self-select the most appropriate plan.
 
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
-
 **Question 6**
 
 **Additional advantages**
@@ -923,10 +697,6 @@ This allows each customer to self-select the most appropriate plan.
 - Better customer retention
 - Supports future feature expansion
 - Lower barrier to entry
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
 
 **Question 7**
 
@@ -942,10 +712,6 @@ This recommendation best aligns with the client's objective of maximising long-t
 A tiered model captures the different willingness to pay across customer segments, remains competitive against existing SaaS providers, and creates a clear upgrade path as customers grow.
 
 With a variable cost of only $4 per customer per month, all three tiers generate healthy contribution margins while increasing pricing flexibility.
-
----
-
-## Case 3 – Pricing a SaaS Platform  [Intermediate]
 
 **Question 8**
 
@@ -966,10 +732,6 @@ Its bestselling facial serum has become one of the company's largest revenue gen
 The CEO believes customers love the product and wonders whether the company should increase prices to improve profitability.
 Management has hired your consulting team to evaluate the opportunity.
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
 ### Data Provided To Candidate
 
 **Client Objective**
@@ -981,12 +743,6 @@ Strong reputation
 High customer satisfaction
 Repeat purchase rate 72%
 Capacity constraints None
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Data Provided To Candidate
 
 **Product**
 Vitamin C facial serum
@@ -1014,12 +770,6 @@ Customer survey
 | $65 | 70% |
 | $70 | 48% |
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Data Provided To Candidate
-
 **Competition**
 Current PureGlow price $55
 
@@ -1040,12 +790,6 @@ Current PureGlow price $55
 | Distribution | $2 |
 | *Total Variable Cost* | *$21* |
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Data Provided To Candidate
-
 **Commercial Analysis**
 Marketing estimates the following annual demand.
 
@@ -1057,21 +801,11 @@ Marketing estimates the following annual demand.
 | $65 | 850,000 |
 | $70 | 650,000 |
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
 ### Your Tasks
 
 **Question 1**
 What is the client's objective?
 How should this influence pricing?
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Your Tasks
 
 **Question 2**
 Complete the table below.
@@ -1082,12 +816,6 @@ Complete the table below.
 | Product | | |
 | Customer | | |
 | Competition | | |
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Your Tasks
 
 **Question 3**
 Using the Pricing Triangle, identify
@@ -1106,12 +834,6 @@ Calculate the annual contribution profit for each price.
 | $65 | |
 | $70 | |
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
-### Your Tasks
-
 **Question 5**
 Which option generates the highest annual contribution?
 
@@ -1124,13 +846,7 @@ Recommend a pricing strategy.
 **Question 8**
 If sales decline more than expected after the price increase, what would you investigate before reversing the decision?
 
----
-
-# Guided Answers (Case 4)
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
+### Guided Answers
 
 **Although all information is provided, an offer-level candidate would naturally ask**
 
@@ -1153,19 +869,11 @@ Company
 - Any capacity constraints?
 - Any gross margin targets?
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
 **Question 1**
 
 **Maximise long-term profitability.**
 
 **This means profitability should be the primary decision criterion.**
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 2**
 
@@ -1176,10 +884,6 @@ Company
 | Customers | Moderately price sensitive | Need to balance price and volume |
 | Competition | Current price sits below several premium brands | Room for modest increase |
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
 **Question 3**
 
 **Cost Floor $21**
@@ -1189,10 +893,6 @@ Company
 Purchase intent remains relatively strong up to $60, then falls sharply.
 
 **Likely pricing range $55–60**
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 4**
 
@@ -1206,17 +906,9 @@ Purchase intent remains relatively strong up to $60, then falls sharply.
 
 (Row for 60 is highlighted in blue in the original.)
 
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
-
 **Question 5**
 
 Highest contribution $60
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 6**
 
@@ -1226,10 +918,6 @@ Probably yes, but I would validate two assumptions:
 2. Competitors are unlikely to respond aggressively.
 
 If either assumption is uncertain, I would recommend testing before a nationwide rollout.
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 7**
 
@@ -1242,10 +930,6 @@ There are three reasons for this:
 1. Although annual demand is expected to decline modestly, the higher unit margin more than offsets the volume loss, resulting in the highest contribution profit of approximately $39.8 million.
 2. The new price remains competitive within the premium skincare segment, supporting the brand's premium positioning.
 3. Customer research indicates strong willingness to pay at $60, suggesting the price increase is unlikely to significantly impact demand.
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 7**
 
@@ -1263,10 +947,6 @@ Before implementing the price increase nationally, I would recommend piloting th
 - Competitor pricing and promotional activity
 
 If the pilot confirms that demand remains resilient while profitability improves, I would proceed with a nationwide rollout. If demand falls more than expected, I would reassess the pricing strategy or strengthen the product's value proposition before scaling further.
-
----
-
-## Case 4 – Should We Increase Prices?  [Intermediate]
 
 **Question 8**
 
@@ -1289,10 +969,6 @@ The company has developed **NovaBand**, an AI-powered wearable wristband that co
 The product is unlike anything currently available in the market.
 Management has hired your consulting team to determine the launch pricing strategy.
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
 ### Data Provided To Candidate
 
 **Client Objective**
@@ -1305,12 +981,6 @@ Strong innovation reputation
 Existing customer base
 Manufacturing capacity Not constrained
 Marketing budget Very large
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Data Provided To Candidate
 
 **Product**
 NovaBand provides
@@ -1339,12 +1009,6 @@ Research indicates
 | Garmin | $450 |
 | Oura Ring | $349 |
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Data Provided To Candidate
-
 | Price | Purchase Intent |
 |---|---|
 | $399 | 95% |
@@ -1354,12 +1018,6 @@ Research indicates
 | $799 | 28% |
 
 Focus groups indicate customers perceive NovaBand as significantly more valuable than a traditional smartwatch.
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Data Provided To Candidate
 
 **Competition**
 There are no direct competitors offering an equivalent AI productivity wearable.
@@ -1381,12 +1039,6 @@ Technology analysts expect competitors to launch similar products within two yea
 | Warranty | $30 |
 | *Total Variable Cost* | *$250* |
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Data Provided To Candidate
-
 **The product team proposes three pricing strategies.**
 
 **Strategy A**
@@ -1401,21 +1053,11 @@ Technology analysts expect competitors to launch similar products within two yea
 - Launch at $799
 - Premium positioning
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
 ### Your Tasks
 
 **Question 1**
 What is the client's objective?
 What pricing challenges make this case different from previous cases?
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Your Tasks
 
 **Question 2**
 Complete the table below.
@@ -1427,12 +1069,6 @@ Complete the table below.
 | Customer | | |
 | Competition | | |
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Your Tasks
-
 **Question 3**
 If there are no direct competitors, what products should you benchmark against instead?
 Why?
@@ -1443,12 +1079,6 @@ Using the Pricing Triangle, identify
 - Competitive Reference Point
 - Customer Value
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Your Tasks
-
 **Question 5**
 Evaluate the advantages and disadvantages of each pricing strategy.
 
@@ -1457,12 +1087,6 @@ Evaluate the advantages and disadvantages of each pricing strategy.
 | A ($399) | | |
 | B ($599) | | |
 | C ($799) | | |
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
-### Your Tasks
 
 **Question 6**
 Which pricing strategy would you recommend?
@@ -1473,13 +1097,7 @@ Should NovaTech lower prices once competitors enter the market?
 **Question 8**
 What metrics would you monitor during the first year after launch?
 
----
-
-# Guided Answers (Case 5)
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
+### Guided Answers
 
 **Although all information is provided, an offer-level candidate would naturally ask**
 
@@ -1505,10 +1123,6 @@ Company
 - Manufacturing constraints?
 - Marketing capability?
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
 **Question 1**
 
 Unlike previous cases, there are no direct competitors.
@@ -1518,10 +1132,6 @@ Instead, the recommendation should rely primarily on
 - Substitute products
 - Strategic positioning
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
 **Question 2**
 
 | Area | Insight | Pricing Implication |
@@ -1530,10 +1140,6 @@ Instead, the recommendation should rely primarily on
 | Product | Highly differentiated | Pricing power |
 | Customers | Professionals willing to pay for productivity | High value perception |
 | Competition | No direct competitors | Need substitute benchmarks |
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
 
 **Question 3**
 
@@ -1546,10 +1152,6 @@ Instead, the recommendation should rely primarily on
 These products solve similar customer needs even if they are technically different.
 Customers compare alternatives rather than technologies.
 
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
-
 **Question 4**
 
 **Cost Floor $250**
@@ -1560,10 +1162,6 @@ Customers compare alternatives rather than technologies.
 Survey suggests Purchase intent remains strong around $500–600.
 
 **Likely pricing range $550–650**
-
----
-
-## Case 5 – Pricing a New AI Wearable Device  [Advanced]
 
 **Question 5**
 
